@@ -1,0 +1,691 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blockskit Restaurant\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-20 11:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.1; wp-6.9; php-7.4.21\n"
+"X-Domain: blockskit-restaurant"
+
+#: patterns/home-review.php:108 patterns/home-review.php:142
+#: patterns/home-review.php:176 patterns/home-review.php:210
+msgid ""
+"&#34;Consectetur quasi duis montes placerat quam, bibendum nihil nostra "
+"vitae, odio ullamco justo, pede ornare doloremque odit pellentesque.&#34;"
+msgstr ""
+
+#: patterns/home-review.php:56
+msgid "+235-2456-8879"
+msgstr ""
+
+#: patterns/home-callback.php:54
+msgid "1 am - 9 am ( Lunch - Dinner )"
+msgstr ""
+
+#: patterns/home-review.php:84
+msgid "12/A, New Boston Tower,NYC"
+msgstr ""
+
+#: patterns/home-hero-banner.php:75
+msgid "25k+"
+msgstr ""
+
+#: patterns/home-callback.php:50
+msgid "7 am - 2 am ( Lunch )"
+msgstr ""
+
+#: patterns/home-callback.php:34
+msgid "8 am - 11 am ( Morning Breakfast )"
+msgstr ""
+
+#: patterns/home-callback.php:38
+msgid "8 am - 12 pm ( Lunch - Dinner )"
+msgstr ""
+
+#: patterns/home-services.php:50 patterns/home-services.php:82
+#: patterns/home-services.php:114 patterns/home-services.php:146
+msgid "Ac minus, iaculis commodi faucibus natoque onem."
+msgstr ""
+
+#: patterns/home-review.php:119 patterns/home-review.php:221
+msgid "AGENT, CUSTOMER"
+msgstr ""
+
+#: patterns/home-review.php:149
+msgid "Alison Greysome"
+msgstr ""
+
+#: patterns/home-services.php:78
+msgid "Appetizers"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:68
+msgid "Billing address"
+msgstr ""
+
+#. Name of the theme
+msgid "Blockskit Restaurant"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Blockskit Restaurant is a modern, versatile FSE WordPress theme designed for "
+"restaurant, bistro, restro, cafe, chef, culinary, dinner, Fine Dining, food, "
+"luxury, menu, reservation, pub, catering, and other restaurant websites—no "
+"coding required. With full-site editing, you can easily customize every "
+"aspect of your site, including headers and footers. Featuring multiple "
+"templates, patterns, and style variations, it adapts seamlessly to various "
+"aesthetics and business needs."
+msgstr ""
+
+#. Author of the theme
+msgid "BlockskitDev"
+msgstr ""
+
+#: patterns/home-hero-banner.php:42
+msgid "BOOK A TABLE"
+msgstr ""
+
+#: patterns/home-services.php:46
+msgid "Breakfast"
+msgstr ""
+
+#: patterns/template-cart.php:212
+msgid "Browse store"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Accent Text"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Body"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Current Color"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Heading"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Highlight"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Hover"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Inherit"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Light"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Neutral"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Outline"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Pure Black"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Pure White"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary Accent"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary Accent Text"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Surface"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: patterns/footer.php:53
+msgid "Company"
+msgstr ""
+
+#: patterns/home-callback.php:219
+msgid "CONTACT US"
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "Copyright © 2026 ·"
+msgstr ""
+
+#: patterns/home-hero-banner.php:85
+msgid "Debitis facere, congue suspendisse. Primis nisi pellentesque tempora."
+msgstr ""
+
+#: patterns/home-services.php:110
+msgid "Desserts"
+msgstr ""
+
+#: patterns/home-callback.php:141 patterns/home-hero-banner.php:38
+msgid "DISCOVER MENU"
+msgstr ""
+
+#: patterns/home-callback.php:101
+msgid "Discover Our Delicious Menus"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:48
+msgid "Downloads"
+msgstr ""
+
+#: patterns/home-services.php:142
+msgid "Drinks"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Light"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Secondary"
+msgstr ""
+
+#: patterns/home-hero-banner.php:29
+msgid "Enjoy Delicious &amp; Authentic Cuisine"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Kumbh Sans"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Urbanist"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "X Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XX Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXX Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXX Large Ext"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXXX Large"
+msgstr ""
+
+#: patterns/home-review.php:46
+msgid "For Table Reservation or Any Other Food Services.."
+msgstr ""
+
+#: patterns/home-callback.php:179
+msgid "Free Dessert For Online Booking"
+msgstr ""
+
+#: patterns/home-review.php:183
+msgid "George Washigton"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Primary"
+msgstr ""
+
+#: patterns/home-review.php:19
+msgid "HAPPY CUSTOMER SAYS"
+msgstr ""
+
+#: patterns/home-review.php:28
+msgid "Honoured Customers Views About Our Restaurant.."
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://blockskit.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://blockskit.com/blockskit-restaurant/"
+msgstr ""
+
+#: patterns/home-review.php:70
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/home-review.php:217
+msgid "Jenny Sampson"
+msgstr ""
+
+#: patterns/home-latest-posts.php:17
+msgid "LATEST BLOG"
+msgstr ""
+
+#: patterns/home-review.php:115
+msgid "Lorenzo Whiteman"
+msgstr ""
+
+#: patterns/home-review.php:187
+msgid "MARKETER, CUSTOMER"
+msgstr ""
+
+#: patterns/home-callback.php:29
+msgid "Monday - Friday"
+msgstr ""
+
+#: patterns/template-cart.php:220
+msgid "New in store"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid ""
+"Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat "
+"lorem lacinia sagittis non pretium."
+msgstr ""
+
+#: patterns/template-product-search-results.php:48
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/home-hero-banner.php:33
+msgid ""
+"Non eveniet tempora tempora sed animi, dicta in placeat aut, cupidatat "
+"asperiores, phasellus quibusdam interdum. Veniam sint laborum id a "
+"reiciendis! Posuere maxime placeat recusandae."
+msgstr ""
+
+#: patterns/header.php:34
+msgid "ONLINE ORDER"
+msgstr ""
+
+#: patterns/home-callback.php:24
+msgid "Opening Time"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:22
+msgid "Order Confirmation"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:40
+msgid "Order details"
+msgstr ""
+
+#: patterns/home-callback.php:2
+msgctxt "Pattern title"
+msgid "Callback"
+msgstr ""
+
+#: patterns/footer.php:2
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/header.php:2
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header-home.php:2
+msgctxt "Pattern title"
+msgid "Header Home"
+msgstr ""
+
+#: patterns/home-hero-banner.php:2
+msgctxt "Pattern title"
+msgid "Hero Banner"
+msgstr ""
+
+#: patterns/home.php:2
+msgctxt "Pattern title"
+msgid "Home"
+msgstr ""
+
+#: patterns/home-latest-posts.php:2
+msgctxt "Pattern title"
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/home-review.php:2
+msgctxt "Pattern title"
+msgid "Review"
+msgstr ""
+
+#: patterns/home-services.php:2
+msgctxt "Pattern title"
+msgid "Services"
+msgstr ""
+
+#: patterns/template-404.php:2
+msgctxt "Pattern title"
+msgid "Template 404"
+msgstr ""
+
+#: patterns/template-archive.php:2
+msgctxt "Pattern title"
+msgid "Template Archive"
+msgstr ""
+
+#: patterns/template-archive-product.php:2
+msgctxt "Pattern title"
+msgid "Template Archive Product"
+msgstr ""
+
+#: patterns/template-blog-listing.php:2
+msgctxt "Pattern title"
+msgid "Template Blog Listing"
+msgstr ""
+
+#: patterns/template-cart.php:2
+msgctxt "Pattern title"
+msgid "Template Cart"
+msgstr ""
+
+#: patterns/template-checkout.php:2
+msgctxt "Pattern title"
+msgid "Template Checkout"
+msgstr ""
+
+#: patterns/template-full-width.php:2
+msgctxt "Pattern title"
+msgid "Template Full Width"
+msgstr ""
+
+#: patterns/template-index.php:2
+msgctxt "Pattern title"
+msgid "Template Index"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:2
+msgctxt "Pattern title"
+msgid "Template Order Confirmation"
+msgstr ""
+
+#: patterns/template-page.php:2
+msgctxt "Pattern title"
+msgid "Template Page"
+msgstr ""
+
+#: patterns/template-page-no-gap.php:2
+msgctxt "Pattern title"
+msgid "Template Page No Gap"
+msgstr ""
+
+#: patterns/template-page-no-title.php:2
+msgctxt "Pattern title"
+msgid "Template Page No Title"
+msgstr ""
+
+#: patterns/template-product-search-results.php:2
+msgctxt "Pattern title"
+msgid "Template Product Search Results"
+msgstr ""
+
+#: patterns/template-search.php:2
+msgctxt "Pattern title"
+msgid "Template Search"
+msgstr ""
+
+#: patterns/template-single.php:2
+msgctxt "Pattern title"
+msgid "Template Single"
+msgstr ""
+
+#: patterns/template-single-product.php:2
+msgctxt "Pattern title"
+msgid "Template Single Product"
+msgstr ""
+
+#: patterns/home-hero-banner.php:79
+msgid "POSITIVE REVIEWS"
+msgstr ""
+
+#: patterns/footer.php:37
+msgid "Products"
+msgstr ""
+
+#: patterns/home-services.php:30 patterns/home-latest-posts.php:30
+msgid "Quisque ligula nostra, lectus eiusmod massa parturient maecenas."
+msgstr ""
+
+#: patterns/home-review.php:35
+msgid ""
+"Quisque ligula nostra, lectus eiusmod massa parturient maecenas. Tempor "
+"tellus minus, ipsam placeat vivamus, dignissim! Ipsam tenetur conub."
+msgstr ""
+
+#: patterns/home-latest-posts.php:26
+msgid "Recent Insights &amp; Blogs"
+msgstr ""
+
+#: patterns/template-single-product.php:57
+msgid "Related products"
+msgstr ""
+
+#: patterns/footer.php:73
+msgid "Resources"
+msgstr ""
+
+#: patterns/home-callback.php:45
+msgid "Saturday - Sunday"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Shadow name"
+msgid "Bold"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Shadow name"
+msgid "Light"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Shadow name"
+msgid "Soft"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:58
+msgid "Shipping address"
+msgstr ""
+
+#: patterns/template-single-product.php:15
+msgid "Single Product"
+msgstr ""
+
+#: patterns/template-search.php:50
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "X Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "XX Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "XX Small"
+msgstr ""
+
+#: patterns/home-review.php:153
+msgid "SUPERVISOR, CUSTOMER"
+msgstr ""
+
+#: patterns/footer.php:89
+msgid "Support"
+msgstr ""
+
+#: functions.php:48
+msgid "Theme Patterns"
+msgstr ""
+
+#: patterns/template-404.php:23
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/home-callback.php:136 patterns/home-callback.php:214
+msgid ""
+"Varius perferendis cupidatat ad. Sapiente quas, iure scelerisque, natus "
+"aenean, molestie esse."
+msgstr ""
+
+#: patterns/home-services.php:26
+msgid "We Offer Top Notch Services"
+msgstr ""
+
+#: patterns/home-hero-banner.php:20
+msgid "WELCOME &amp; ENJOY MEAL"
+msgstr ""
+
+#: patterns/home-services.php:17
+msgid "WHY CHOOSE US"
+msgstr ""
+
+#: patterns/template-cart.php:26 patterns/template-cart.php:89
+#: patterns/template-cart.php:152
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/template-cart.php:208
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/footer.php:114
+msgid "· All rights reserved"
+msgstr ""

@@ -1,0 +1,23 @@
+'use strict';
+
+Object.defineProperty(exports, '__esModule', { value: true });
+
+const index = require('./index-be4abba1.js');
+
+const scTestModeInfoCss = "sc-test-mode-info .sc-test-mode-info-content ol{padding-left:1em;margin:0;font-size:12px}sc-test-mode-info .sc-test-mode-info-content ol img{width:320px;margin-top:12px}sc-test-mode-info .sc-test-mode-info-content ul{padding-left:1em}sc-test-mode-info .sc-test-mode-info-footer{display:flex;justify-content:space-between}sc-test-mode-info .sc-test-mode-info-footer sc-button>sc-icon{margin-left:4px}sc-test-mode-info .sc-test-mode-info-footer>span{font-size:var(--sc-button-font-size-small);align-content:center;opacity:0.75}sc-test-mode-info sc-popover{--panel-width:25em}#wpadminbar #wp-admin-bar-sc_change_checkout_mode>.ab-item:before{content:\"\\f186\"/\"\";top:2px}";
+const ScTestModeInfoStyle0 = scTestModeInfoCss;
+
+const ScTestModeInfo = class {
+    constructor(hostRef) {
+        index.registerInstance(this, hostRef);
+    }
+    render() {
+        var _a, _b;
+        return (index.h("sc-popover", { key: 'e1f4fdc708c1cdd169f72260f27011095b811be9', skidding: 30 }, index.h("slot", { key: 'f386de3d15e6f44cdee8cf40e933b6f373163430', name: "trigger", slot: "trigger" }), index.h("span", { key: '60fe684ed01d86780f96b65f59de743227519126', slot: "title" }, wp.i18n.__('How to switch from Test to Live mode', 'surecart')), index.h("div", { key: '59d6fb1cd65cbaebe5ff4f143d1ecad11bd1e030', class: "sc-test-mode-info-content", slot: "content" }, index.h("ol", { key: 'd4fcdfd72df082315dc0aac804a27c582f298b6b' }, index.h("li", { key: '0a30bd98c55bf8ace815af5f40a49855a4f513a2' }, wp.i18n.__('From the Admin Bar', 'surecart'), index.h("ul", { key: '94644eb2e06939c259876dfe024d802fcb0b04fe' }, index.h("li", { key: '9c6b27b6f386e18fd44c84d11cade8fc72276209' }, wp.i18n.__('Select any product & proceed to its checkout page.', 'surecart')), index.h("li", { key: '0b7852658cc96fa45b83041a00459800d667cd98' }, wp.i18n.__('Access the dropdown menu & select the live mode.', 'surecart'))), index.h("img", { key: 'ccae9f4872aee140d9ddc142655c0c0de14cb692', src: `${(_a = window === null || window === void 0 ? void 0 : window.scData) === null || _a === void 0 ? void 0 : _a.plugin_url}/images/change-from-adminbar.png`, alt: wp.i18n.__('Screenshot showing how to change mode from the admin bar', 'surecart') })), index.h("li", { key: 'a4ddc623bda720e5213b60fcf33150a8ec55f3cf' }, wp.i18n.__('From the Editor', 'surecart'), index.h("ul", { key: 'e9f3a92571f4d438e48e1e8872efd75f4bf0b6f3' }, index.h("li", { key: 'ce3e58ca329b00159facffef3ecc66cfca6dd31c' }, wp.i18n.__('Navigate to the custom Forms section under SureCart.', 'surecart')), index.h("li", { key: '4e73d1e9f2ca35a679dc32397347f070c1d2ac65' }, wp.i18n.__('Select the checkout form.', 'surecart')), index.h("li", { key: '4b36714a5788a557257d8049dbd13523d66e4e3f' }, wp.i18n.__('Select "Live" from the dropdown. Hit Update!', 'surecart'))), index.h("img", { key: '7b24fbcc5d2ad783693f5bbc68455e5183dfad1e', src: `${(_b = window === null || window === void 0 ? void 0 : window.scData) === null || _b === void 0 ? void 0 : _b.plugin_url}/images/change-from-editor.png`, alt: wp.i18n.__('Screenshot showing how to change mode from the editor', 'surecart') })))), index.h("div", { key: 'c581909e8df48f752aeac65e3d4645a7d61096fa', class: "sc-test-mode-info-footer", slot: "footer" }, index.h("sc-button", { key: '3669c943ed80935bef079d5e41a9fb759dd2ec7f', size: "small", type: "link", target: "_blank", href: "https://surecart.com/docs/how-to-make-test-payments/" }, wp.i18n.__('Documentation ', 'surecart'), " ", index.h("sc-icon", { key: 'a56d411ad10545f44a80232647a0c1a3413ef6cd', name: "external-link" })), index.h("sc-button", { key: '3c9fb3964e80d85d37fb515575c325d8c1a461bc', size: "small", type: "link", target: "_blank", href: "https://surecart.com/contact-us/" }, wp.i18n.__('Open a ticket ', 'surecart'), " ", index.h("sc-icon", { key: '2d62ae3db5a41a6e355aef1b332a38ff83c38e7b', name: "external-link" })))));
+    }
+};
+ScTestModeInfo.style = ScTestModeInfoStyle0;
+
+exports.sc_test_mode_info = ScTestModeInfo;
+
+//# sourceMappingURL=sc-test-mode-info.cjs.entry.js.map

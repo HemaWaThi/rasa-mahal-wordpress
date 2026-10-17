@@ -1,0 +1,14 @@
+wp-config.php
+
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/cache/
+
+*.log
+.DS_Store
+Thumbs.db
+
+node_modules/
+vendor/
+
+.htaccess
